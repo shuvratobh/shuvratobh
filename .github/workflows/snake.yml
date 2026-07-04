@@ -8,6 +8,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     name: Generate Snake Animation
@@ -32,3 +35,4 @@ jobs:
           add: "output/"
           message: "chore(snake): 🐍 auto-update contribution snake [skip ci]"
           default_author: github_actions
+          github_token: ${{ secrets.GITHUB_TOKEN }}

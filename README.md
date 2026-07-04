@@ -6,12 +6,12 @@
 <div align="center">
 
 <!-- ─── HERO BANNER ──────────────────────────────────────────── -->
-<img src="./assets/banner.svg" alt="Shuvrato Bhattacharjee — AI Engineer & Full Stack Developer" width="100%"/>
+<img src="./assets/banner.svg" alt="Shuvrato Bhattacharjee — Full Stack Developer" width="100%"/>
 
 <br/>
 
 <!-- ─── TYPING ANIMATION ─────────────────────────────────────── -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&lines=Building+intelligent+systems.;Crafting+full-stack+products.;Exploring+the+frontier+of+LLMs.;Open+source+%E2%86%92+open+minds.;Engineering+what+matters.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&lines=Full+Stack+Developer.;Building+real+products.;CS+Student+from+Bangladesh.;Open+Source+Contributor.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,10 +22,6 @@
 &nbsp;
 <a href="https://github.com/shuvratobh?tab=followers">
   <img src="https://img.shields.io/github/followers/shuvratobh?style=flat-square&color=A855F7&label=Followers&logo=github" alt="Followers"/>
-</a>
-&nbsp;
-<a href="https://github.com/shuvratobh?tab=stars">
-  <img src="https://img.shields.io/github/stars/shuvratobh?style=flat-square&color=00E676&label=Stars&logo=github" alt="Stars"/>
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/Based_in-Bangladesh_🇧🇩-58A6FF?style=flat-square" alt="Bangladesh"/>
@@ -47,100 +43,35 @@
 <tr>
 <td width="55%">
 
-**I build software that thinks.**
+CS student building full-stack web applications from Dhaka, Bangladesh. I care about clean architecture, readable code, and shipping things that actually work.
 
-Currently a Computer Science student in Dhaka, I sit at the intersection of **AI research** and **product engineering** — designing systems that apply large language models to real-world workflows, and shipping full-stack products that people actually use.
-
-My work spans from low-level ML pipelines and fine-tuning experiments to polished, production-grade SaaS interfaces. I care equally about the quality of the model and the quality of the button.
-
-> *"The best code is the code that creates value — for users, for teams, for the world."*
+Currently learning system design, deepening my backend skills, and contributing to open source projects where I can add real value.
 
 </td>
 <td width="45%">
 
 ```yaml
-name:       Shuvrato Bhattacharjee
-alias:      shuvratobh
-location:   Dhaka, Bangladesh 🇧🇩
-timezone:   Asia/Dhaka (UTC+6)
+name:      Shuvrato Bhattacharjee
+alias:     shuvratobh
+location:  Dhaka, Bangladesh 🇧🇩
 
 roles:
-  - AI Engineer
   - Full Stack Developer
+  - CS Student
   - Open Source Contributor
-  - Case Competition finalist
 
-current:
-  - Building AI SaaS products
-  - Researching LLM applications
-  - Learning system design at scale
-  - Contributing to OSS projects
+interests:
+  - Web Development
+  - SaaS Products
+  - System Design
+  - Open Source
 
-status:     Open to opportunities ✅
+status:    Open to opportunities ✅
 ```
 
 </td>
 </tr>
 </table>
-
-<br/>
-<img src="./assets/divider.svg" alt="" width="100%"/>
-<br/>
-
-<!-- ─── CURRENT FOCUS ─────────────────────────────────────────── -->
-<div align="center">
-
-### `// what I'm building`
-
-<br/>
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-<br/>
-<img src="https://img.shields.io/badge/🤖-AI%20SaaS-161B22?style=for-the-badge&labelColor=161B22&color=58A6FF" alt="AI SaaS"/>
-<br/><br/>
-<b>AI SaaS Products</b>
-<br/>
-<sub>Shipping LLM-powered applications with real users, real feedback loops, and real impact.</sub>
-<br/><br/>
-</td>
-
-<td align="center" width="25%">
-<br/>
-<img src="https://img.shields.io/badge/📐-System%20Design-161B22?style=for-the-badge&labelColor=161B22&color=A855F7" alt="System Design"/>
-<br/><br/>
-<b>System Design</b>
-<br/>
-<sub>Architecting distributed systems that scale — from concept to cloud infrastructure.</sub>
-<br/><br/>
-</td>
-
-<td align="center" width="25%">
-<br/>
-<img src="https://img.shields.io/badge/🌱-Open%20Source-161B22?style=for-the-badge&labelColor=161B22&color=00E676" alt="Open Source"/>
-<br/><br/>
-<b>Open Source</b>
-<br/>
-<sub>Contributing to the tools that power the ecosystem — docs, code, and community.</sub>
-<br/><br/>
-</td>
-
-<td align="center" width="25%">
-<br/>
-<img src="https://img.shields.io/badge/🔬-LLM%20Research-161B22?style=for-the-badge&labelColor=161B22&color=58A6FF" alt="LLM Research"/>
-<br/><br/>
-<b>LLM Research</b>
-<br/>
-<sub>Exploring agent architectures, RAG pipelines, and efficient inference at the edge.</sub>
-<br/><br/>
-</td>
-
-</tr>
-</table>
-
-</div>
 
 <br/>
 <img src="./assets/divider.svg" alt="" width="100%"/>
@@ -155,73 +86,48 @@ status:     Open to opportunities ✅
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=4B8BBE)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
 
 <br/>
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Framer Motion](https://img.shields.io/badge/Framer-0D1117?style=flat-square&logo=framer&logoColor=0055FF)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0D1117?style=flat-square&logo=shadcnui&logoColor=FFFFFF)
 
 <br/>
 
-**Backend & APIs**
+**Backend**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=FFFFFF)
-![REST](https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square&logo=fastapi&logoColor=58A6FF)
-![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=flat-square&logo=graphql&logoColor=E10098)
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20)
 
 <br/>
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=DC382D)
 
 <br/>
 
-**AI & ML**
+**Tools**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=1C3C3C)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=FFFFFF)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=150458)
-
-<br/>
-
-**Cloud & DevOps**
-
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
-
-<br/>
-
-**Design & Tools**
-
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37)
 
 </div>
 
@@ -229,82 +135,64 @@ status:     Open to opportunities ✅
 <img src="./assets/divider.svg" alt="" width="100%"/>
 <br/>
 
-<!-- ─── FEATURED PROJECTS ──────────────────────────────────────── -->
+<!-- ─── PROJECTS ───────────────────────────────────────────────── -->
 <div align="center">
 
-### `// featured work`
+### `// projects`
 
 <br/>
 
 </div>
 
-<!-- Project 1 -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 &nbsp; Verba AI — Intelligent Document Assistant
+### 🍽️ &nbsp; Smart Canteen & Billing System
 
-<img src="https://img.shields.io/badge/Status-Active-00E676?style=flat-square" alt="Active"/>
+<img src="https://img.shields.io/badge/Status-In%20Development-58A6FF?style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Type-SaaS%20Product-A855F7?style=flat-square" alt="SaaS"/>
+<img src="https://img.shields.io/badge/Type-Vertical%20SaaS-A855F7?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Role-Frontend%20Dev-00E676?style=flat-square"/>
 
-A full-stack RAG (Retrieval-Augmented Generation) application that lets teams chat with their internal documentation, codebases, and knowledge bases using LLMs.
+A web-based SaaS platform that digitalizes canteen operations — food ordering, billing, inventory tracking, and role-based dashboards for Admin, Staff, and Customers.
 
-**Key Features**
-- 📄 Multi-format document ingestion (PDF, MD, DOCX, code)
-- 🔍 Semantic vector search with hybrid retrieval
-- 💬 Contextual Q&A with citation tracing
-- 🔐 Role-based access and multi-tenant architecture
-- 📊 Analytics dashboard for usage insights
+Replaces manual workflows with real-time order queues, automated billing, and centralized management. Built following clean service/repository patterns with WebSocket-powered live updates.
 
 **Stack**
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=4B8BBE)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)
 
 <br/>
 
-[![View Repository](https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/shuvratobh)
+[![Repository](https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/shuvratobh/Smart-Canteen-Management-System)
 &nbsp;
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://github.com/shuvratobh)
+[![UI Design](https://img.shields.io/badge/Figma%20Design-58A6FF?style=for-the-badge&logo=figma&logoColor=FFFFFF)](https://fast-admin-39638066.figma.site/)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ &nbsp; NexusFlow — LLM Agent Orchestration
+### 📚 &nbsp; BookThrift
 
-<img src="https://img.shields.io/badge/Status-In%20Development-58A6FF?style=flat-square" alt="In Dev"/>
+<img src="https://img.shields.io/badge/Status-Active-00E676?style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Type-Developer%20Tool-00E676?style=flat-square" alt="Dev Tool"/>
+<img src="https://img.shields.io/badge/Type-Web%20App-58A6FF?style=flat-square"/>
 
-A visual workflow builder for composing multi-step LLM agent pipelines. Drag-and-drop nodes represent tools, models, and data transforms — export as runnable Python code.
-
-**Key Features**
-- 🎨 Visual node-based pipeline editor
-- 🔗 LangChain & custom agent integration
-- 🧪 Built-in prompt testing sandbox
-- 📦 One-click Docker deployment
-- 🔄 Real-time streaming output panel
+A platform for buying, selling, and donating second-hand books — making knowledge more accessible and affordable.
 
 **Stack**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=4B8BBE)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=1C3C3C)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=DC382D)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
 
 <br/>
 
-[![View Repository](https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/shuvratobh)
-&nbsp;
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://github.com/shuvratobh)
+[![Repository](https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/shuvratobh/bookthriftnew)
 
 </td>
 </tr>
@@ -316,64 +204,34 @@ A visual workflow builder for composing multi-step LLM agent pipelines. Drag-and
 <tr>
 <td width="50%" valign="top">
 
-### 🌱 &nbsp; EcoSense — Sustainable Tech Analytics
+### 🎬 &nbsp; MPV: UOSC × Modern Z
 
-<img src="https://img.shields.io/badge/Status-Completed-00E676?style=flat-square" alt="Completed"/>
+<img src="https://img.shields.io/badge/Status-Completed-00E676?style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Type-Case%20Competition-A855F7?style=flat-square" alt="Case Comp"/>
+<img src="https://img.shields.io/badge/Type-Config%20%2F%20Tool-A855F7?style=flat-square"/>
 
-A data-driven sustainability dashboard for organizations to track, analyze, and reduce their carbon footprint using real-time sensor data and predictive ML models.
+A heavily customized MPV media player setup combining UOSC's functionality with Modern Z's premium aesthetics. Features a custom timeline, refined controls, auto-resume via SimpleHistory, thumbnail previews (Thumbfast), playlist management, and high-end upscaling shaders.
 
-**Key Features**
-- 📈 Real-time emissions tracking dashboard
-- 🔮 ML-powered consumption forecasting
-- 📋 Automated ESG compliance reporting
-- 🗺️ Geographic heat maps of carbon intensity
-- 💡 AI-generated reduction recommendations
+**Includes**
+- Seamless history & resume
+- Smart folder autoload
+- WebSocket-powered timeline thumbnails
+- NVScaler + FilmGrain shaders
 
-**Stack**
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=4B8BBE)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
-
-<br/>
-
-[![View Repository](https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/shuvratobh)
+[![Repository](https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/shuvratobh/mpv-uosc-x-modernz)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 &nbsp; MindMap AI — Intelligent Study Tool
+### 🪟 &nbsp; YASB Config
 
-<img src="https://img.shields.io/badge/Status-Active-00E676?style=flat-square" alt="Active"/>
+<img src="https://img.shields.io/badge/Status-Personal%20Setup-8B949E?style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Type-EdTech-58A6FF?style=flat-square" alt="EdTech"/>
+<img src="https://img.shields.io/badge/Type-Dotfiles-58A6FF?style=flat-square"/>
 
-An AI-powered study companion that converts textbooks, lecture notes, and videos into personalized mind maps, flashcards, and practice quizzes using multimodal LLMs.
+My personal configuration for **YASB** (Yet Another Status Bar) — a customizable Windows taskbar replacement. Tweaked for a clean, minimal desktop workflow.
 
-**Key Features**
-- 🗺️ Auto-generated knowledge graph visualization
-- 📚 Multimodal input (text, PDF, YouTube, audio)
-- 🃏 Spaced repetition flashcard engine
-- 📝 AI quiz generation with difficulty tuning
-- 📊 Learning analytics and progress tracking
-
-**Stack**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
-
-<br/>
-
-[![View Repository](https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/shuvratobh)
-&nbsp;
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://github.com/shuvratobh)
+[![Repository](https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/shuvratobh/yasb)
 
 </td>
 </tr>
@@ -383,7 +241,7 @@ An AI-powered study companion that converts textbooks, lecture notes, and videos
 <img src="./assets/divider.svg" alt="" width="100%"/>
 <br/>
 
-<!-- ─── GITHUB STATISTICS ──────────────────────────────────────── -->
+<!-- ─── GITHUB STATS ───────────────────────────────────────────── -->
 <div align="center">
 
 ### `// metrics`
@@ -395,8 +253,7 @@ An AI-powered study companion that converts textbooks, lecture notes, and videos
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvratobh&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&layout=compact&border_radius=12&langs_count=10&exclude_repo=github-profile&custom_title=Languages+by+Usage" alt="Top Languages" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuvratobh&theme=github_dark" alt="Profile Summary" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvratobh&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&layout=compact&border_radius=12&langs_count=8&custom_title=Languages+by+Usage" alt="Top Languages" width="49%"/>
 
 </div>
 
@@ -407,7 +264,7 @@ An AI-powered study companion that converts textbooks, lecture notes, and videos
 <!-- ─── CONTRIBUTION GRAPH ─────────────────────────────────────── -->
 <div align="center">
 
-### `// contribution graph`
+### `// activity`
 
 <br/>
 
@@ -438,67 +295,6 @@ An AI-powered study companion that converts textbooks, lecture notes, and videos
 <img src="./assets/divider.svg" alt="" width="100%"/>
 <br/>
 
-<!-- ─── ABOUT ME CARDS ─────────────────────────────────────────── -->
-<div align="center">
-
-### `// about`
-
-<br/>
-
-</div>
-
-<table>
-<tr>
-
-<td valign="top" width="33%">
-
-#### 🎓 &nbsp; Academic
-
-Computer Science undergraduate with a focus on **Artificial Intelligence** and **Software Systems**. I treat university as a launchpad — not a ceiling.
-
-Currently diving deep into:
-- Algorithms & Data Structures
-- Operating Systems internals
-- Database theory & implementation
-- Linear Algebra for ML
-
-</td>
-
-<td valign="top" width="33%">
-
-#### 🔭 &nbsp; Engineering
-
-I build across the full stack — from GPU-accelerated training loops to pixel-perfect frontend interfaces. Obsessed with clean APIs, fast builds, and systems that don't break at 2 AM.
-
-Core principles:
-- Ship early, iterate fast
-- Observability from day one
-- Security is not optional
-- Performance is a feature
-
-</td>
-
-<td valign="top" width="33%">
-
-#### 🌍 &nbsp; Mission
-
-Building **sustainable, meaningful software** from Bangladesh — proving that geography is not a constraint for world-class engineering.
-
-Focused on:
-- Climate tech & green computing
-- Open source accessibility tools
-- AI for emerging markets
-- EdTech & knowledge equity
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-<img src="./assets/divider.svg" alt="" width="100%"/>
-<br/>
-
 <!-- ─── TIMELINE ───────────────────────────────────────────────── -->
 <div align="center">
 
@@ -509,143 +305,26 @@ Focused on:
 </div>
 
 ```
-2022 ──────────────────────────────────────────────────────────────────────────────
-  ├── 🎓  Enrolled in Computer Science
-  ├── 💻  First production web app deployed
-  └── 🐍  Deep-dived into Python & algorithms
-
 2023 ──────────────────────────────────────────────────────────────────────────────
-  ├── 🤖  Discovered the transformer architecture — changed everything
-  ├── ⚛️   Adopted React + TypeScript as primary frontend stack
-  ├── 🧪  Built first RAG system from scratch
-  └── 🏆  Competed in first inter-university case competition
+  ├── 🎓  Started Computer Science at university
+  ├── 💻  Picked up JavaScript and React as first serious stack
+  └── 🛠️   Built first full web project from scratch
 
 2024 ──────────────────────────────────────────────────────────────────────────────
-  ├── 🚀  Shipped two full-stack SaaS products end-to-end
-  ├── 🌱  Started contributing to open source repositories
-  ├── 📦  Adopted Docker, CI/CD, and cloud infrastructure patterns
-  └── 🔬  Began experimenting with fine-tuning and RLHF
+  ├── ⚛️   Deepened React skills, started working with REST APIs
+  ├── 🍽️   Contributed to Smart Canteen SaaS as frontend developer
+  ├── 📚  Launched BookThrift — book buy/sell/donate platform
+  └── 🐳  Adopted Docker and Git workflows for real projects
 
 2025 ──────────────────────────────────────────────────────────────────────────────
-  ├── 🧠  Building production LLM agent systems
-  ├── 📐  Studying distributed systems and system design at scale
-  ├── 🌍  Focusing on sustainable and accessible AI
-  └── 🤝  Open to internships, collabs, and impactful projects
+  ├── 🔧  Explored system design fundamentals
+  ├── 🌱  Started contributing to open source
+  ├── 🎬  Shipped MPV UOSC × Modern Z custom media setup
+  └── 🪟  Customized and published YASB Windows status bar config
 
 2026 ─── NOW ──────────────────────────────────────────────────────────────────────
-  └── 🔭  The next chapter is being written...
+  └── 🔭  Building more, learning faster...
 ```
-
-<br/>
-<img src="./assets/divider.svg" alt="" width="100%"/>
-<br/>
-
-<!-- ─── LEARNING ROADMAP ───────────────────────────────────────── -->
-<div align="center">
-
-### `// roadmap`
-
-<br/>
-
-| Area | Current Focus | Progress |
-|------|--------------|----------|
-| **LLMs & Agents** | Multi-agent orchestration, tool use, memory systems | `████████░░` 80% |
-| **System Design** | Distributed databases, consensus protocols, caching | `██████░░░░` 60% |
-| **Cloud & Infra** | AWS solutions architecture, Kubernetes, IaC | `█████░░░░░` 50% |
-| **ML Engineering** | MLOps pipelines, model serving, quantization | `██████░░░░` 60% |
-| **Rust** | Systems programming fundamentals for performance-critical code | `███░░░░░░░` 30% |
-| **Open Source** | Consistent contributions to meaningful projects | `███████░░░` 70% |
-
-</div>
-
-<br/>
-<img src="./assets/divider.svg" alt="" width="100%"/>
-<br/>
-
-<!-- ─── CURRENTLY ──────────────────────────────────────────────── -->
-<div align="center">
-
-### `// currently`
-
-<br/>
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-#### 📖 &nbsp; Reading
-
-| Title | Author | Status |
-|-------|--------|--------|
-| Designing Data-Intensive Applications | Martin Kleppmann | 🔄 Reading |
-| The Architecture of Trust | Various | 📌 Next |
-| Building LLM Applications | Valentina Alto | ✅ Done |
-| Clean Code | Robert C. Martin | ✅ Done |
-
-</td>
-
-<td align="center" width="50%">
-
-#### 🔨 &nbsp; Building
-
-```
-🤖  AI-powered document Q&A SaaS
-    ├─ Status: Active development
-    ├─ Stack:  FastAPI + Next.js + pgvector
-    └─ ETA:    Q3 2026
-
-⚡  LLM agent workflow orchestrator
-    ├─ Status: Architecture phase
-    ├─ Stack:  TypeScript + Python + Redis
-    └─ ETA:    Q4 2026
-
-🌱  Open source CLI tool for devs
-    ├─ Status: Alpha released
-    └─ Stack:  Python + Rich
-```
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br/>
-<img src="./assets/divider.svg" alt="" width="100%"/>
-<br/>
-
-<!-- ─── ACHIEVEMENTS ───────────────────────────────────────────── -->
-<div align="center">
-
-### `// achievements`
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shuvratobh&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" width="100%"/>
-
-</div>
-
-<br/>
-<img src="./assets/divider.svg" alt="" width="100%"/>
-<br/>
-
-<!-- ─── QUOTE ──────────────────────────────────────────────────── -->
-<div align="center">
-
-### `// philosophy`
-
-<br/>
-
-> **"The engineers of the future are not those who wait for tools to be handed to them —**
-> **they are the ones building the tools while everyone else is still asking for them."**
-
-&nbsp;
-
-<sub>— A principle I try to live by, every single day.</sub>
-
-</div>
 
 <br/>
 <img src="./assets/divider.svg" alt="" width="100%"/>
@@ -666,34 +345,21 @@ Focused on:
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161B22" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/shuvratobh">
-  <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=161B22" alt="Twitter/X"/>
-</a>
-&nbsp;
 <a href="https://github.com/shuvratobh">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=161B22" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<sub>
-  Always open to <b>internship opportunities</b>, <b>open source collaboration</b>, and <b>conversations about AI</b>.<br/>
-  If you're building something meaningful — <a href="mailto:shuvratobh@gmail.com">let's talk</a>.
-</sub>
+<sub>Open to internships, collaborations, and interesting projects.<br/>
+If you're building something — <a href="mailto:shuvratobh@gmail.com">reach out</a>.</sub>
 
 </div>
 
 <br/>
-<img src="./assets/footer.svg" alt="Footer" width="100%"/>
+<img src="./assets/footer.svg" alt="" width="100%"/>
 <br/>
 
-<!-- ─── META ───────────────────────────────────────────────────── -->
 <div align="center">
-
-<sub>
-Last updated: <!-- LAST_UPDATED -->auto-generated<!-- /LAST_UPDATED --> &nbsp;·&nbsp;
-Built with precision, not templates. &nbsp;·&nbsp;
-<a href="./docs/design-system.md">Design System</a>
-</sub>
-
+<sub>Last updated: <!-- LAST_UPDATED -->auto-generated<!-- /LAST_UPDATED --></sub>
 </div>
